@@ -4,13 +4,20 @@ This project implements a Real-Time Flood Prediction and SMS Alert System using 
 
 #Features
 ->Data preprocessing, EDA (Exploratory Data Analysis), and visualization
+
 ->Machine Learning models including XGBoost, LightGBM, AdaBoost, and GradientBoosting
+
 ->Performance evaluation using metrics like accuracy, precision, recall, F1-score, ROC AUC, and confusion matrix
+
 ->Flask web app for user interaction
+
 ->Real-time deployment using ngrok
->SMS alert system via Twilio API for critical flood warnings
+
+->SMS alert system via Twilio API for critical flood warnings
 
 #Technologies Used
 ->Python, Pandas, NumPy, Matplotlib, Seaborn
+
 ->Scikit-learn, XGBoost, LightGBM
+
 ->Flask, Pyngrok, Twilio
